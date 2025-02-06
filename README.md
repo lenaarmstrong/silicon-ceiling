@@ -10,4 +10,4 @@ The link to the paper can be found here: https://dl.acm.org/doi/abs/10.1145/3689
 
 **Resume Generation**
 * The AI generated resumes and corresponding codebook from qualitative analysis can be found in the "resume_generation.csv" file
-* The North American Industry Classification System used to classify the occupations on generated resumed by industry can be found [here](https://www.census.gov/naics/?58967?yearbck=2022)) and more information about how we coded each occupation can be found in the "occupations_NAICS_code.csv" file
+* The North American Industry Classification System used to classify the occupations on generated resumed by industry can be found on the [U.S. Census Bureau's website](https://www.census.gov/naics/?58967?yearbck=2022) and more information about how we coded each occupation can be found in the "occupations_NAICS_code.csv" file
