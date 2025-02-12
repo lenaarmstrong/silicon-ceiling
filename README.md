@@ -6,7 +6,7 @@ The link to the paper can be found here: https://dl.acm.org/doi/abs/10.1145/3689
 
 **Resume Assessment**
 * The resumes used for the resume assessment task can be found in the "Resumes" folder
-* The scores outputted by GPT-3.5 can be found in {TBD}
+* The scores outputted by GPT-3.5 can be found in the "resume_assessment.csv" file
 * The code used to assess the resumes can be found in the "GPT_hiring_audit.ipynb" file
 
 **Resume Generation**
